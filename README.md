@@ -10,7 +10,6 @@ The [API]( https://coronavirus-19-api.herokuapp.com/ ) was used to provide the d
 ## Features
 - Current statistics of global total confirmed, deaths, recovered cases.
 - Statistics of countries and regions total cases count
-- World map with annotation pin and description of affected regions
 - Basic advice to prevent and handle virus,  myth busters Q&A from WHO.
 
 ## Requirements
