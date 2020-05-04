@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "679936824383",
+    "firebase_url": "https://karuna-virus.firebaseio.com",
+    "project_id": "karuna-virus",
+    "storage_bucket": "karuna-virus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679936824383:android:c18499499ed61e0598148a",
+        "android_client_info": {
+          "package_name": "com.inductor.karuna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679936824383-jha9gukhn4pad2vhbrtdftor1edg7e4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrsUwdhymrNPTGQS0mHF5S_UD5XS5-lI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679936824383-jha9gukhn4pad2vhbrtdftor1edg7e4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3780736957915970~1018679142"
+    }
+  ],
+  "configuration_version": "1"
+}
